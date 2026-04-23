@@ -1,7 +1,7 @@
 /*
  * Name: Ann Mathew
- * Email: your_email@vanderbilt.edu
- * Project: CS 3270 Project 3 - Rust Sudoku Solver
+ * Email: ann.e.mathew@vanderbilt.edu
+ * Project: CS 3270 Project 3 Rust Sudoku Solver
  */
 
 use std::fs;
